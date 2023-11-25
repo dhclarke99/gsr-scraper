@@ -1,36 +1,53 @@
 const fs = require('fs');
-const path = require('path');
 const pdf = require('pdf-parse');
 
-// Function to read and parse a single PDF file
 async function parsePDF(filePath) {
     const dataBuffer = fs.readFileSync(filePath);
     const data = await pdf(dataBuffer);
 
-    // Regular expressions for parsing
-    const schoolPattern = /School: (\w+)/;
-    const yearPattern = /Cohort Years: (\d{4}-\d{2})/;
-    const sportPattern = /(\w+(?: \w+)*): GSR (\d+), Fed Rate (\d+)/g;
+    const schoolPattern = /Cohorts: (.+?)$/m;
+    const yearPattern = /(\d{4} - \d{4}) Cohorts/;
+    // Revised regex pattern to handle sports names better
+    const sportPattern = /([A-Za-z\/\.\s]+)(\d{2,3})(\d{2})/g;
 
-    const school = data.text.match(schoolPattern)[1];
-    const year = data.text.match(yearPattern)[1];
-    const sportsData = [...data.text.matchAll(sportPattern)];
+    const schoolMatch = data.text.match(schoolPattern);
+    const yearMatch = data.text.match(yearPattern);
+    const school = schoolMatch ? schoolMatch[1] : 'Unknown School';
+    const year = yearMatch ? yearMatch[1] : 'Unknown Year';
 
-    return { school, year, sportsData };
-}
+    const sections = data.text.split("Women's Sports");
+    const menSportsText = sections[0];
+    const womenSportsText = "Women's Sports" + (sections[1] || ''); // Safeguard against missing women's section
 
-// Main function to process all PDFs in the 'pdfs' directory
-async function processPDFs() {
-    const pdfDir = path.join(__dirname, 'pdfs');
-    const files = fs.readdirSync(pdfDir);
-
-    for (const file of files) {
-        if (path.extname(file) === '.pdf') {
-            const filePath = path.join(pdfDir, file);
-            const data = await parsePDF(filePath);
-            console.log(data); // Or save this data to a file/DB as needed
+    // Function to extract and format sports data
+    const extractSportsData = (text) => {
+        const sportsData = [];
+        let match;
+        while ((match = sportPattern.exec(text)) !== null) {
+            sportsData.push({
+                sport: match[1].trim(),
+                GSR: match[2],
+                FedRate: match[3]
+            });
         }
-    }
+        return sportsData;
+    };
+
+    const menSportsData = extractSportsData(menSportsText);
+    const womenSportsData = extractSportsData(womenSportsText);
+
+    return {
+        school,
+        year,
+        sportsData: {
+            men: menSportsData,
+            women: womenSportsData
+        }
+    };
 }
 
-processPDFs();
+// Example usage
+const filePath = './pdfs/ASU GSR 2006-09.pdf';
+parsePDF(filePath).then(data => {
+    console.log(JSON.stringify(data, null, 2));
+});
