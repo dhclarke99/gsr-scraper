@@ -22,17 +22,45 @@ async function parsePDF(filePath) {
 
     const extractSportsData = (text) => {
         const sportsData = [];
-        let match;
-        while ((match = sportPattern.exec(text)) !== null) {
-            sportsData.push({
-                sport: match[1].trim(),
-                GSR: match[2],
-                FedRate: match[3]
-            });
+        const lines = text.split('\n'); // Split the text into lines
+        const sportPattern = /^([A-Za-z\/\.\s]+)(\d{2,3})(\d{2,3})$/;
+        let capturing = false;
+    
+        for (const line of lines) {
+            if (line.startsWith('Sport')) {
+                capturing = true; // Start capturing data after 'Sport'
+                continue;
+            }
+    
+            if (!capturing || line.startsWith('Graduation') || line.startsWith("Men's") || /^\d{4}$/.test(line)) {
+                continue; // Skip lines with these keywords or a 4-digit year
+            }
+    
+            const match = line.match(sportPattern);
+            if (match) {
+                let sport = match[1].trim();
+                let GSR = match[2];
+                let FedRate = match[3];
+    
+                if (parseInt(GSR) > 100) {
+                    FedRate = GSR[2] + FedRate; // Adjust FedRate if GSR is above 100
+                    GSR = GSR.substring(0, 2);   // Adjust GSR to two digits
+                }
+    
+                sportsData.push({ sport, GSR, FedRate });
+            }
         }
+    
         return sportsData;
     };
-
+    
+    
+    
+    
+    
+    
+    
+        
     const menSportsData = extractSportsData(menSportsText);
     const womenSportsData = extractSportsData(womenSportsText);
 
