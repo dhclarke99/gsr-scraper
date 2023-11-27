@@ -1,0 +1,1574 @@
+{
+  "arizona_state_university": {
+    "name": "Arizona State University",
+    "sportsData": {
+      "1999": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "45",
+            "FedRate": "24"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "31",
+            "FedRate": "22"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "61",
+            "FedRate": "38"
+          },
+          {
+            "sport": "Football",
+            "GSR": "56",
+            "FedRate": "53"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "65",
+            "FedRate": "50"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "56",
+            "FedRate": "38"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "75",
+            "FedRate": "58"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "82",
+            "FedRate": "30"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "96",
+            "FedRate": "78"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "83",
+            "FedRate": "60"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "92",
+            "FedRate": "90"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "89",
+            "FedRate": "71"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "67",
+            "FedRate": "55"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "88",
+            "FedRate": "75"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "86",
+            "FedRate": "71"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "100",
+            "FedRate": "90"
+          }
+        ]
+      },
+      "2000": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "36",
+            "FedRate": "15"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "42",
+            "FedRate": "33"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "50",
+            "FedRate": "33"
+          },
+          {
+            "sport": "Football",
+            "GSR": "55",
+            "FedRate": "50"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "61",
+            "FedRate": "50"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "50",
+            "FedRate": "40"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "72",
+            "FedRate": "50"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "78",
+            "FedRate": "40"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "92",
+            "FedRate": "74"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "88",
+            "FedRate": "40"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "82",
+            "FedRate": "88"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "87",
+            "FedRate": "68"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "73",
+            "FedRate": "58"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "85",
+            "FedRate": "50"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "86",
+            "FedRate": "63"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "100",
+            "FedRate": "90"
+          }
+        ]
+      },
+      "2001": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "30",
+            "FedRate": "14"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "38",
+            "FedRate": "40"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "44",
+            "FedRate": "36"
+          },
+          {
+            "sport": "Football",
+            "GSR": "60",
+            "FedRate": "52"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "78",
+            "FedRate": "62"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "63",
+            "FedRate": "50"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "67",
+            "FedRate": "42"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "90",
+            "FedRate": "70"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "92",
+            "FedRate": "78"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "89",
+            "FedRate": "50"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "90",
+            "FedRate": "80"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "87",
+            "FedRate": "68"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "76",
+            "FedRate": "64"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "86",
+            "FedRate": "53"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "86",
+            "FedRate": "63"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "100",
+            "FedRate": "78"
+          },
+          {
+            "sport": "Water Polo",
+            "GSR": "100",
+            "FedRate": "100"
+          }
+        ]
+      },
+      "2002": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "38",
+            "FedRate": "18"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "40",
+            "FedRate": "45"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "46",
+            "FedRate": "43"
+          },
+          {
+            "sport": "Football",
+            "GSR": "58",
+            "FedRate": "49"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "83",
+            "FedRate": "80"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "82",
+            "FedRate": "75"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "78",
+            "FedRate": "60"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "69",
+            "FedRate": "45"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "91",
+            "FedRate": "77"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "91",
+            "FedRate": "70"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "89",
+            "FedRate": "38"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "80",
+            "FedRate": "89"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "91",
+            "FedRate": "74"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "88",
+            "FedRate": "64"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "94",
+            "FedRate": "56"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "100",
+            "FedRate": "83"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "100",
+            "FedRate": "88"
+          },
+          {
+            "sport": "Water Polo",
+            "GSR": "90",
+            "FedRate": "88"
+          }
+        ]
+      },
+      "2003": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "43",
+            "FedRate": "16"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "60",
+            "FedRate": "44"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "53",
+            "FedRate": "46"
+          },
+          {
+            "sport": "Football",
+            "GSR": "63",
+            "FedRate": "51"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "86",
+            "FedRate": "86"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "89",
+            "FedRate": "79"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "83",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "57",
+            "FedRate": "36"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "92",
+            "FedRate": "86"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "96",
+            "FedRate": "73"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "90",
+            "FedRate": "56"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "82",
+            "FedRate": "90"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "88",
+            "FedRate": "76"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "94",
+            "FedRate": "69"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "100",
+            "FedRate": "67"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "100",
+            "FedRate": "88"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "100",
+            "FedRate": "78"
+          },
+          {
+            "sport": "Water Polo",
+            "GSR": "88",
+            "FedRate": "83"
+          }
+        ]
+      },
+      "2004": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "52",
+            "FedRate": "19"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "56",
+            "FedRate": "30"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "59",
+            "FedRate": "50"
+          },
+          {
+            "sport": "Football",
+            "GSR": "64",
+            "FedRate": "48"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "83",
+            "FedRate": "83"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "100",
+            "FedRate": "86"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "62",
+            "FedRate": "46"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "93",
+            "FedRate": "85"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "100",
+            "FedRate": "78"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "89",
+            "FedRate": "60"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "90",
+            "FedRate": "82"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "92",
+            "FedRate": "83"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "88",
+            "FedRate": "71"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "100",
+            "FedRate": "90"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "100",
+            "FedRate": "82"
+          },
+          {
+            "sport": "Water Polo",
+            "GSR": "89",
+            "FedRate": "81"
+          }
+        ]
+      },
+      "2005": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "63",
+            "FedRate": "15"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "67",
+            "FedRate": "27"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "72",
+            "FedRate": "54"
+          },
+          {
+            "sport": "Football",
+            "GSR": "63",
+            "FedRate": "48"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "86",
+            "FedRate": "67"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "84",
+            "FedRate": "75"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "54",
+            "FedRate": "43"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "93",
+            "FedRate": "79"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "96",
+            "FedRate": "78"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "100",
+            "FedRate": "70"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "92",
+            "FedRate": "91"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "96",
+            "FedRate": "82"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "87",
+            "FedRate": "71"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "100",
+            "FedRate": "95"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "100",
+            "FedRate": "91"
+          },
+          {
+            "sport": "Water Polo",
+            "GSR": "84",
+            "FedRate": "81"
+          }
+        ]
+      },
+      "2006": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "76",
+            "FedRate": "16"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "75",
+            "FedRate": "25"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "79",
+            "FedRate": "67"
+          },
+          {
+            "sport": "Football",
+            "GSR": "67",
+            "FedRate": "52"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "100",
+            "FedRate": "67"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "71",
+            "FedRate": "62"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "50",
+            "FedRate": "38"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "92",
+            "FedRate": "77"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "91",
+            "FedRate": "80"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "100",
+            "FedRate": "78"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "100",
+            "FedRate": "82"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "87",
+            "FedRate": "69"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "93",
+            "FedRate": "79"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "91",
+            "FedRate": "91"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "100",
+            "FedRate": "91"
+          },
+          {
+            "sport": "Water Polo",
+            "GSR": "88",
+            "FedRate": "71"
+          }
+        ]
+      },
+      "2007": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "78",
+            "FedRate": "23"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "80",
+            "FedRate": "46"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "90",
+            "FedRate": "75"
+          },
+          {
+            "sport": "Football",
+            "GSR": "69",
+            "FedRate": "56"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "100",
+            "FedRate": "45"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "73",
+            "FedRate": "56"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "54",
+            "FedRate": "40"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "93",
+            "FedRate": "75"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "85",
+            "FedRate": "77"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "100",
+            "FedRate": "71"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "86",
+            "FedRate": "75"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "88",
+            "FedRate": "68"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "94",
+            "FedRate": "87"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "86",
+            "FedRate": "89"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "100",
+            "FedRate": "83"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "100",
+            "FedRate": "90"
+          },
+          {
+            "sport": "Water Polo",
+            "GSR": "83",
+            "FedRate": "75"
+          }
+        ]
+      },
+      "2008": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "87",
+            "FedRate": "22"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "90",
+            "FedRate": "43"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "96",
+            "FedRate": "92"
+          },
+          {
+            "sport": "Football",
+            "GSR": "73",
+            "FedRate": "63"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "90",
+            "FedRate": "42"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "80",
+            "FedRate": "46"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "54",
+            "FedRate": "38"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "93",
+            "FedRate": "79"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "88",
+            "FedRate": "89"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "100",
+            "FedRate": "80"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "87",
+            "FedRate": "83"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "88",
+            "FedRate": "70"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "100",
+            "FedRate": "94"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "86",
+            "FedRate": "84"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "100",
+            "FedRate": "83"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "86",
+            "FedRate": "56"
+          },
+          {
+            "sport": "Water Polo",
+            "GSR": "84",
+            "FedRate": "77"
+          }
+        ]
+      },
+      "2009": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "89",
+            "FedRate": "24"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "93",
+            "FedRate": "41"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "92",
+            "FedRate": "88"
+          },
+          {
+            "sport": "Football",
+            "GSR": "80",
+            "FedRate": "70"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "89",
+            "FedRate": "33"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "91",
+            "FedRate": "50"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "58",
+            "FedRate": "43"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "93",
+            "FedRate": "75"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "91",
+            "FedRate": "85"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "100",
+            "FedRate": "33"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "85",
+            "FedRate": "82"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "90",
+            "FedRate": "76"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "100",
+            "FedRate": "95"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "87",
+            "FedRate": "79"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "100",
+            "FedRate": "83"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "86",
+            "FedRate": "50"
+          },
+          {
+            "sport": "Water Polo",
+            "GSR": "90",
+            "FedRate": "81"
+          }
+        ]
+      },
+      "2010": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "94",
+            "FedRate": "32"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "93",
+            "FedRate": "33"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "91",
+            "FedRate": "79"
+          },
+          {
+            "sport": "Football",
+            "GSR": "76",
+            "FedRate": "68"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "71",
+            "FedRate": "25"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "100",
+            "FedRate": "63"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "59",
+            "FedRate": "56"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "92",
+            "FedRate": "70"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "96",
+            "FedRate": "90"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "83",
+            "FedRate": "25"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "85",
+            "FedRate": "90"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "93",
+            "FedRate": "81"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "95",
+            "FedRate": "79"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "100",
+            "FedRate": "83"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "88",
+            "FedRate": "46"
+          },
+          {
+            "sport": "Water Polo",
+            "GSR": "89",
+            "FedRate": "86"
+          }
+        ]
+      },
+      "2011": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "94",
+            "FedRate": "29"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "100",
+            "FedRate": "27"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "90",
+            "FedRate": "67"
+          },
+          {
+            "sport": "Football",
+            "GSR": "73",
+            "FedRate": "61"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "50",
+            "FedRate": "14"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "94",
+            "FedRate": "63"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "71",
+            "FedRate": "52"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "92",
+            "FedRate": "73"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "100",
+            "FedRate": "92"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "86",
+            "FedRate": "25"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "93",
+            "FedRate": "76"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "100",
+            "FedRate": "76"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "90",
+            "FedRate": "54"
+          },
+          {
+            "sport": "Water Polo",
+            "GSR": "100",
+            "FedRate": "77"
+          }
+        ]
+      },
+      "2012": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "96",
+            "FedRate": "51"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "100",
+            "FedRate": "33"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "89",
+            "FedRate": "60"
+          },
+          {
+            "sport": "Football",
+            "GSR": "75",
+            "FedRate": "60"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "67",
+            "FedRate": "33"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "89",
+            "FedRate": "63"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "63",
+            "FedRate": "38"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "100",
+            "FedRate": "67"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "96",
+            "FedRate": "85"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "83",
+            "FedRate": "25"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "100",
+            "FedRate": "91"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "90",
+            "FedRate": "72"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "100",
+            "FedRate": "68"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "100",
+            "FedRate": "64"
+          },
+          {
+            "sport": "Water Polo",
+            "GSR": "93",
+            "FedRate": "80"
+          }
+        ]
+      },
+      "2013": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "96",
+            "FedRate": "62"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "100",
+            "FedRate": "25"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "94",
+            "FedRate": "60"
+          },
+          {
+            "sport": "Football",
+            "GSR": "75",
+            "FedRate": "57"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "78",
+            "FedRate": "45"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "90",
+            "FedRate": "61"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "73",
+            "FedRate": "32"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "100",
+            "FedRate": "75"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "96",
+            "FedRate": "70"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "89",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "100",
+            "FedRate": "83"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "87",
+            "FedRate": "57"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "100",
+            "FedRate": "72"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "100",
+            "FedRate": "70"
+          },
+          {
+            "sport": "Water Polo",
+            "GSR": "93",
+            "FedRate": "77"
+          }
+        ]
+      },
+      "2014": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "92",
+            "FedRate": "54"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "100",
+            "FedRate": "40"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "94",
+            "FedRate": "70"
+          },
+          {
+            "sport": "Football",
+            "GSR": "86",
+            "FedRate": "66"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "89",
+            "FedRate": "55"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "84",
+            "FedRate": "53"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "88",
+            "FedRate": "26"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "100",
+            "FedRate": "69"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "95",
+            "FedRate": "62"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "100",
+            "FedRate": "86"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "100",
+            "FedRate": "82"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "92",
+            "FedRate": "67"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "91",
+            "FedRate": "95"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "100",
+            "FedRate": "75"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "100",
+            "FedRate": "75"
+          },
+          {
+            "sport": "Water Polo",
+            "GSR": "94",
+            "FedRate": "87"
+          }
+        ]
+      },
+      "2015": {
+        "men": [
+          {
+            "sport": "Baseball",
+            "GSR": "92",
+            "FedRate": "51"
+          },
+          {
+            "sport": "Basketball",
+            "GSR": "100",
+            "FedRate": "33"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "89",
+            "FedRate": "76"
+          },
+          {
+            "sport": "Football",
+            "GSR": "87",
+            "FedRate": "67"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "88",
+            "FedRate": "71"
+          },
+          {
+            "sport": "Ice Hockey",
+            "GSR": "89",
+            "FedRate": "56"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "88",
+            "FedRate": "62"
+          },
+          {
+            "sport": "Wrestling",
+            "GSR": "89",
+            "FedRate": "41"
+          }
+        ],
+        "women": [
+          {
+            "sport": "Basketball",
+            "GSR": "100",
+            "FedRate": "64"
+          },
+          {
+            "sport": "CC/Track",
+            "GSR": "88",
+            "FedRate": "58"
+          },
+          {
+            "sport": "Golf",
+            "GSR": "100",
+            "FedRate": "78"
+          },
+          {
+            "sport": "Gymnastics",
+            "GSR": "100",
+            "FedRate": "82"
+          },
+          {
+            "sport": "Soccer",
+            "GSR": "96",
+            "FedRate": "76"
+          },
+          {
+            "sport": "Softball",
+            "GSR": "92",
+            "FedRate": "87"
+          },
+          {
+            "sport": "Swimming",
+            "GSR": "100",
+            "FedRate": "77"
+          },
+          {
+            "sport": "Tennis",
+            "GSR": "100",
+            "FedRate": "100"
+          },
+          {
+            "sport": "Volleyball",
+            "GSR": "92",
+            "FedRate": "44"
+          },
+          {
+            "sport": "Water Polo",
+            "GSR": "95",
+            "FedRate": "100"
+          }
+        ]
+      }
+    }
+  }
+}
