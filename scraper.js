@@ -143,5 +143,5 @@ async function processPDFs(directoryPath) {
 
 
 // Example usage
-const pdfDirectoryPath = './pdfs'; // Directory containing the PDF files
+const pdfDirectoryPath = './pdfs/unread'; // Directory containing the PDF files
 processPDFs(pdfDirectoryPath).catch(console.error);
